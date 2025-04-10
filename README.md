@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lisadev84/Lisadev84/main/banner-dev.png" alt="Java Backend Developer Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Salut, moi c'est Isabelle 👋</h1>
 
 <p align="center">
