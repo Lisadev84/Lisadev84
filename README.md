@@ -14,6 +14,7 @@
 ### 💻 À propos de moi
 
 - 🎓 Diplômée en **Conception d'Applications Web**
+- 🛠️ Spécialisée en **Java**, **Spring Boot**, **PHP**
 - 🚧 En cours de développement d’un **SaaS de gestion locative** (Java | Spring | AWS)
 - 📚 En formation continue : **Angular**, **AWS**, **Bonnes pratiques de conception logicielle**
 - 🧠 J’aime comprendre les besoins métier pour bâtir des solutions solides et évolutives
@@ -32,25 +33,23 @@
 
 ---
 
-### 🔭 Projets en cours
+### 🚀 Projets en valeur
 
-- 💼 **SaaS de gestion locative**  
-  > Java | Spring Boot | PostgreSQL | AWS | API tierces | Tests | CI/CD
+- 🏠 **SaaS de gestion locative**  
+  > Java | Spring Boot | MySQL | AWS | API tierces  
+  ➤ Analyse métier · Services REST · Tests · CI/CD
 
-- 🛒 **Marketplace communautaire**  
-  > Projet collaboratif avec API REST, modélisation complète et implémentation back
+- 🛍️ **Marketplace communautaire – Pinqo**  
+  > Projet collaboratif GitHub · RESTful API · PostgreSQL  
+  ➤ Modélisation logicielle · Back-end orienté service
 
 ---
 
-### 📊 Mes stats GitHub
+### 📚 En cours d’apprentissage
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lisadev84&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lisadev84&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lisadev84&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+- ☁️ AWS (déploiement, services managés)
+- 🔺 Angular + Vite
+- 🧠 Bonnes pratiques de conception logicielle
 
 ---
 
@@ -62,11 +61,17 @@
 
 ---
 
+### ✨ Centres d’intérêt
+
+- 🥾 Randonnée pédestre & nature
+- 📖 Heroïc Fantasy & récits épiques
+- 🧬 Généalogie
+
+---
+
 <details>
-  <summary>🎯 Fun facts</summary>
-  <ul>
-    <li>👣 J'adore partir en randonnée et me perdre dans la nature</li>
-    <li>📖 Fan de fantasy à mes heures perdues</li>
-    <li>🌳 Je fais aussi de la généalogie quand je ne code pas</li>
-  </ul>
+  <summary>🎯 En un mot ?</summary>
+  <blockquote>
+    Passionnée, rigoureuse et tournée vers la qualité logicielle.
+  </blockquote>
 </details>
