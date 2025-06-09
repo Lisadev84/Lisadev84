@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Salut, moi c'est Isabelle 👋</h1>
+<h1 align="center">Bonjour, moi c'est Isabelle 👋</h1>
 
 <p align="center">
   <em>Développeuse backend Java / Spring passionnée par la tech et en quête perpétuelle d'évolution 🚀</em>
