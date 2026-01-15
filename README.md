@@ -37,7 +37,7 @@
 
 - 🏠 **SaaS de gestion locative**  
   > Java | Spring Boot | MySQL | AWS | API tierces  
-  ➤ Analyse métier · Services REST · Tests · CI/CD
+  ➤ Analyse métier · Services REST · Tests 
 
 - 🛍️ **Marketplace communautaire – Pinqo**  
   > Projet collaboratif GitHub · RESTful API · PostgreSQL  
@@ -45,10 +45,10 @@
 
 ---
 
-### 📚 En cours d’apprentissage
+### 📚 En apprentissage continu
 
 - ☁️ AWS (déploiement, services managés)
-- 🔺 Angular + Vite
+- 🔺 Angular 
 - 🧠 Bonnes pratiques de conception logicielle
 
 ---
@@ -57,7 +57,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/isabelle-moriamez)
 - 🧭 [Portefolio](https://portefolio-isabelle-moriamez.netlify.app)
-- 📧 isabelle.moriamez@orange.fr
+- 📧 isa.moriamez@gmail.com
 
 ---
 
